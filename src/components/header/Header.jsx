@@ -7,9 +7,9 @@ export default function Header() {
         <>
             <header id="header">
                 <h1 className="logo">
-                    <a href="../pages/main.php">
+                    <Link to="/">
                         React <em>class</em>
-                    </a>
+                    </Link>
                 </h1>
                 <nav className="menu">
                     <h2 className="ir_so">메인 메뉴</h2>
