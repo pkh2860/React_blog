@@ -16,7 +16,7 @@ export default function Write() {
                                     action="blogWriteSave.php"
                                     name="blogWrite"
                                     method="post"
-                                    enctype="multipart/form-data"
+                                    encType="multipart/form-data"
                                 >
                                     <fieldset>
                                         <legend className="ir_so">블로그 게시글 작성 영역</legend>

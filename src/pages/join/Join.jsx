@@ -34,7 +34,9 @@ export default function Join() {
                                 <label htmlFor="joinCheck">약관에 동의합니다.</label>
                             </span>
                         </div> */}
-                        <form action="/" name="join" method="post" onSubmit="return joinChecks()">
+
+                        {/*  onSubmit="return joinChecks() */}
+                        <form action="/" name="join" method="post">
                             <fieldset>
                                 <legend className="ir_so">회원가입 입력폼</legend>
                                 <div className="join-box">

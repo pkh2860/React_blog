@@ -37,7 +37,7 @@ export default function View() {
                                         width="300"
                                         height="300"
                                         frameBorder="0"
-                                        scrolling="no"
+                                        // scrolling="no"
                                         referrerPolicy="unsafe-url"
                                     ></iframe>
                                 </div>

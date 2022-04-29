@@ -15,19 +15,19 @@ export default function Header() {
                     <h2 className="ir_so">메인 메뉴</h2>
                     <ul>
                         <li>
-                            <a href="/">HOME</a>
+                            <Link to="/">HOME</Link>
                         </li>
                         <li>
-                            <a href="/Login">LOGIN</a>
+                            <Link to="/Login">LOGIN</Link>
                         </li>
                         <li>
-                            <a href="/Join">JOIN</a>
+                            <Link to="/Join">JOIN</Link>
                         </li>
                         <li>
-                            <a href="/View">POST</a>
+                            <Link to="/View">POST</Link>
                         </li>
                         <li>
-                            <a href="/Write">WRITE</a>
+                            <Link to="/Write">WRITE</Link>
                         </li>
                     </ul>
                 </nav>
