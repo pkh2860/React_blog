@@ -5,7 +5,7 @@ export default function Join() {
         <>
             <main id="contents">
                 <h2 className="ir_so">컨텐츠 영역</h2>
-                <section className="join-type gray">
+                <section className="join-type">
                     <div className="member-form">
                         <h3>회원가입</h3>
                         {/* <ul className="list">

@@ -6,12 +6,12 @@ export default function Login() {
         <>
             <main id="contents">
                 <h2 className="ir_so">컨텐츠 영역</h2>
-                <section className="join-type gray">
+                <section className="join-type">
                     <div className="member-form">
                         <h3 className="mb50">로그인</h3>
                         <form action="/" name="login" method="post">
                             <fieldset>
-                                <legend className="ir_so">회원가입 입력폼</legend>
+                                <legend className="ir_so">로그인 입력폼</legend>
                                 <div className="join-box">
                                     <div>
                                         <label htmlFor="youEmail">이메일</label>
